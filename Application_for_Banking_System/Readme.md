@@ -1,4 +1,4 @@
-# 💼 **User and Manager Operations System**
+# 💼 **Application_for_Banking_System**
 
 A **command-line interface (CLI)** application designed to manage user accounts and financial operations effectively. This system allows **managers** to control user access and **users** to perform secure transactions.
 
