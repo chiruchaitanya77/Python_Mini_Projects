@@ -1,4 +1,4 @@
-# 🎓 Simple Pickle-Based College Management System
+# 🎓 Pickle-Based College Management System
 
 A command-line-based **College Management System** built with **Python** and **Pickle**. This system facilitates seamless management for administrators, teachers, and students.
 
