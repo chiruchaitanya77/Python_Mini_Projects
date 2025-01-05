@@ -38,17 +38,17 @@ This system supports two primary roles: **Manager** and **User**, each with spec
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/chiruchaitanya77/Python_Mini_Projects/Application_for_Banking_System.git
+   git clone https://github.com/chiruchaitanya77/Python_Mini_Projects.git
    ```
-2. Navigate to the project folder:  
+3. Navigate to the project folder:  
    ```bash
-   cd User_Manager_Operations
+   cd Application_for_Banking_System
    ```
-3. Run the Python script:  
+4. Run the Python script:  
    ```bash
    python main.py
    ```
-4. Follow on-screen prompts for Manager or User operations.
+5. Follow on-screen prompts for Manager or User operations.
 
 ---
 
