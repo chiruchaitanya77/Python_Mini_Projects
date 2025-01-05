@@ -55,11 +55,11 @@ This system comprises **Management, Doctor, Staff, and Patient modules**, each e
 ## 🚀 **How to Use**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Application_Based_Hospital_Management.git
+   git clone https://github.com/chiruchaitanya77/Python_Mini_Projects.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd Application_Based_Hospital_Management
+   cd Application_for_Hospital_Management_System
    ```
 3. Run the Python script:  
    ```bash
