@@ -63,7 +63,7 @@ This system comprises **Management, Doctor, Staff, and Patient modules**, each e
    ```
 3. Run the Python script:  
    ```bash
-   python main.py
+   python mn.py
    ```
 4. Follow on-screen instructions for each module.
 
