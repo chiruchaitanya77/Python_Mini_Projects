@@ -59,8 +59,8 @@ This system supports two primary roles: **Manager** and **User**, each with spec
 ---
 
 ## 🤝 **Connect with Me**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)  
-- [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/yourusername)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/chiru-chaitanya/)  
+- [![GitHub](https://img.shields.io/badge/GitHub-Profile-green)](https://github.com/chiruchaitanya77)  
 
 ---
 
