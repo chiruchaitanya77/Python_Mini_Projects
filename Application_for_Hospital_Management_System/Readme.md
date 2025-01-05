@@ -89,7 +89,3 @@ Pull requests are welcome! For significant changes, please open an issue first t
 Give this repository a ⭐️ if you find it helpful!
 
 Happy Coding! 💻🎯
-
----
-
-Let me know if you'd like to refine or add more details! 🚀
