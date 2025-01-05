@@ -46,7 +46,7 @@ This system supports two primary roles: **Manager** and **User**, each with spec
    ```
 4. Run the Python script:  
    ```bash
-   python main.py
+   python mn.py
    ```
 5. Follow on-screen prompts for Manager or User operations.
 
