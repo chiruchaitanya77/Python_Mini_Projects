@@ -37,8 +37,8 @@ This system supports two primary roles: **Manager** and **User**, each with spec
 ## 🚀 **How to Use**
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/User_Manager_Operations.git
-   ```
+[   git clone https://github.com/yourusername/User_Manager_Operations.git
+](https://github.com/chiruchaitanya77/Python_Mini_Projects/Application_for_Banking_System.git)   ```
 2. Navigate to the project folder:  
    ```bash
    cd User_Manager_Operations
